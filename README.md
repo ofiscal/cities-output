@@ -1,418 +1,418 @@
 Estos son los reportes (solamente para municipios tratados) generado por el software situado en https://github.com/ofiscal/cities
 
-[ANTIOQUIA -- DONMATÍAS](reportes/5237)
+[ANTIOQUIA -- DONMATÍAS](reportes/5237.pdf)
 
-[ANTIOQUIA -- COPACABANA](reportes/5212)
+[ANTIOQUIA -- COPACABANA](reportes/5212.pdf)
 
-[ANTIOQUIA -- FRONTINO](reportes/5284)
+[ANTIOQUIA -- FRONTINO](reportes/5284.pdf)
 
-[ANTIOQUIA -- FREDONIA](reportes/5282)
+[ANTIOQUIA -- FREDONIA](reportes/5282.pdf)
 
-[ANTIOQUIA -- ANGOSTURA](reportes/5038)
+[ANTIOQUIA -- ANGOSTURA](reportes/5038.pdf)
 
-[ANTIOQUIA -- ZARAGOZA](reportes/5895)
+[ANTIOQUIA -- ZARAGOZA](reportes/5895.pdf)
 
-[ANTIOQUIA -- SANTA BÁRBARA](reportes/5679)
+[ANTIOQUIA -- SANTA BÁRBARA](reportes/5679.pdf)
 
-[ANTIOQUIA -- RETIRO](reportes/5607)
+[ANTIOQUIA -- RETIRO](reportes/5607.pdf)
 
-[ANTIOQUIA -- SANTAFÉ DE ANTIOQUIA](reportes/5042)
+[ANTIOQUIA -- SANTAFÉ DE ANTIOQUIA](reportes/5042.pdf)
 
-[ANTIOQUIA -- COCORNÁ](reportes/5197)
+[ANTIOQUIA -- COCORNÁ](reportes/5197.pdf)
 
-[ANTIOQUIA -- BURITICÁ](reportes/5113)
+[ANTIOQUIA -- BURITICÁ](reportes/5113.pdf)
 
-[ANTIOQUIA -- CARACOLÍ](reportes/5142)
+[ANTIOQUIA -- CARACOLÍ](reportes/5142.pdf)
 
-[ANTIOQUIA -- HELICONIA](reportes/5347)
+[ANTIOQUIA -- HELICONIA](reportes/5347.pdf)
 
-[ANTIOQUIA -- SEGOVIA](reportes/5736)
+[ANTIOQUIA -- SEGOVIA](reportes/5736.pdf)
 
-[ANTIOQUIA -- JARDÍN](reportes/5364)
+[ANTIOQUIA -- JARDÍN](reportes/5364.pdf)
 
-[ANTIOQUIA -- URRAO](reportes/5847)
+[ANTIOQUIA -- URRAO](reportes/5847.pdf)
 
-[ARAUCA -- ARAUQUITA](reportes/81065)
+[ARAUCA -- ARAUQUITA](reportes/81065.pdf)
 
-[ATLÁNTICO -- PALMAR DE VARELA](reportes/8520)
+[ATLÁNTICO -- PALMAR DE VARELA](reportes/8520.pdf)
 
-[ATLÁNTICO -- USIACURÍ](reportes/8849)
+[ATLÁNTICO -- USIACURÍ](reportes/8849.pdf)
 
-[BOLÍVAR -- MAGANGUÉ](reportes/13430)
+[BOLÍVAR -- MAGANGUÉ](reportes/13430.pdf)
 
-[BOLÍVAR -- MONTECRISTO](reportes/13458)
+[BOLÍVAR -- MONTECRISTO](reportes/13458.pdf)
 
-[BOLÍVAR -- ARJONA](reportes/13052)
+[BOLÍVAR -- ARJONA](reportes/13052.pdf)
 
-[BOLÍVAR -- MARGARITA](reportes/13440)
+[BOLÍVAR -- MARGARITA](reportes/13440.pdf)
 
-[BOLÍVAR -- TURBACO](reportes/13836)
+[BOLÍVAR -- TURBACO](reportes/13836.pdf)
 
-[BOLÍVAR -- RÍO VIEJO](reportes/13600)
+[BOLÍVAR -- RÍO VIEJO](reportes/13600.pdf)
 
-[BOYACÁ -- AQUITANIA](reportes/15047)
+[BOYACÁ -- AQUITANIA](reportes/15047.pdf)
 
-[BOYACÁ -- MACANAL](reportes/15425)
+[BOYACÁ -- MACANAL](reportes/15425.pdf)
 
-[BOYACÁ -- OICATÁ](reportes/15500)
+[BOYACÁ -- OICATÁ](reportes/15500.pdf)
 
-[BOYACÁ -- TUTA](reportes/15837)
+[BOYACÁ -- TUTA](reportes/15837.pdf)
 
-[BOYACÁ -- VILLA DE LEYVA](reportes/15407)
+[BOYACÁ -- VILLA DE LEYVA](reportes/15407.pdf)
 
-[BOYACÁ -- ZETAQUIRA](reportes/15897)
+[BOYACÁ -- ZETAQUIRA](reportes/15897.pdf)
 
-[BOYACÁ -- CALDAS](reportes/15131)
+[BOYACÁ -- CALDAS](reportes/15131.pdf)
 
-[BOYACÁ -- CÓMBITA](reportes/15204)
+[BOYACÁ -- CÓMBITA](reportes/15204.pdf)
 
-[BOYACÁ -- SOATÁ](reportes/15753)
+[BOYACÁ -- SOATÁ](reportes/15753.pdf)
 
-[CALDAS -- MANIZALES](reportes/17001)
+[CALDAS -- MANIZALES](reportes/17001.pdf)
 
-[CALDAS -- RISARALDA](reportes/17616)
+[CALDAS -- RISARALDA](reportes/17616.pdf)
 
-[CALDAS -- CHINCHINÁ](reportes/17174)
+[CALDAS -- CHINCHINÁ](reportes/17174.pdf)
 
-[CASANARE -- NUNCHÍA](reportes/85225)
+[CASANARE -- NUNCHÍA](reportes/85225.pdf)
 
-[CASANARE -- SÁCAMA](reportes/85315)
+[CASANARE -- SÁCAMA](reportes/85315.pdf)
 
-[CASANARE -- YOPAL](reportes/85001)
+[CASANARE -- YOPAL](reportes/85001.pdf)
 
-[CASANARE -- HATO COROZAL](reportes/85125)
+[CASANARE -- HATO COROZAL](reportes/85125.pdf)
 
-[CAUCA -- JAMBALÓ](reportes/19364)
+[CAUCA -- JAMBALÓ](reportes/19364.pdf)
 
-[CAUCA -- EL TAMBO](reportes/19256)
+[CAUCA -- EL TAMBO](reportes/19256.pdf)
 
-[CESAR -- ASTREA](reportes/20032)
+[CESAR -- ASTREA](reportes/20032.pdf)
 
-[CESAR -- BECERRIL](reportes/20045)
+[CESAR -- BECERRIL](reportes/20045.pdf)
 
-[CESAR -- LA JAGUA DE IBIRICO](reportes/20400)
+[CESAR -- LA JAGUA DE IBIRICO](reportes/20400.pdf)
 
-[CHOCÓ -- EL CARMEN DE ATRATO](reportes/27245)
+[CHOCÓ -- EL CARMEN DE ATRATO](reportes/27245.pdf)
 
-[CHOCÓ -- ISTMINA](reportes/27361)
+[CHOCÓ -- ISTMINA](reportes/27361.pdf)
 
-[CUNDINAMARCA -- GIRARDOT](reportes/25307)
+[CUNDINAMARCA -- GIRARDOT](reportes/25307.pdf)
 
-[CUNDINAMARCA -- ANAPOIMA](reportes/25035)
+[CUNDINAMARCA -- ANAPOIMA](reportes/25035.pdf)
 
-[CUNDINAMARCA -- MADRID](reportes/25430)
+[CUNDINAMARCA -- MADRID](reportes/25430.pdf)
 
-[CUNDINAMARCA -- FUSAGASUGÁ](reportes/25290)
+[CUNDINAMARCA -- FUSAGASUGÁ](reportes/25290.pdf)
 
-[CUNDINAMARCA -- ZIPAQUIRÁ](reportes/25899)
+[CUNDINAMARCA -- ZIPAQUIRÁ](reportes/25899.pdf)
 
-[CUNDINAMARCA -- UBALÁ](reportes/25839)
+[CUNDINAMARCA -- UBALÁ](reportes/25839.pdf)
 
-[CUNDINAMARCA -- LA MESA](reportes/25386)
+[CUNDINAMARCA -- LA MESA](reportes/25386.pdf)
 
-[CUNDINAMARCA -- SOPÓ](reportes/25758)
+[CUNDINAMARCA -- SOPÓ](reportes/25758.pdf)
 
-[CUNDINAMARCA -- GUADUAS](reportes/25320)
+[CUNDINAMARCA -- GUADUAS](reportes/25320.pdf)
 
-[CÓRDOBA -- SAN ANDRÉS SOTAVENTO](reportes/23670)
+[CÓRDOBA -- SAN ANDRÉS SOTAVENTO](reportes/23670.pdf)
 
-[CÓRDOBA -- CIÉNAGA DE ORO](reportes/23189)
+[CÓRDOBA -- CIÉNAGA DE ORO](reportes/23189.pdf)
 
-[GUAINÍA -- INÍRIDA](reportes/94001)
+[GUAINÍA -- INÍRIDA](reportes/94001.pdf)
 
-[GUAVIARE -- EL RETORNO](reportes/95025)
+[GUAVIARE -- EL RETORNO](reportes/95025.pdf)
 
-[HUILA -- PALERMO](reportes/41524)
+[HUILA -- PALERMO](reportes/41524.pdf)
 
-[HUILA -- IQUIRA](reportes/41357)
+[HUILA -- IQUIRA](reportes/41357.pdf)
 
-[HUILA -- SAN AGUSTÍN](reportes/41668)
+[HUILA -- SAN AGUSTÍN](reportes/41668.pdf)
 
-[LA GUAJIRA -- MAICAO](reportes/44430)
+[LA GUAJIRA -- MAICAO](reportes/44430.pdf)
 
-[MAGDALENA -- CIÉNAGA](reportes/47189)
+[MAGDALENA -- CIÉNAGA](reportes/47189.pdf)
 
-[MAGDALENA -- EL PIÑON](reportes/47258)
+[MAGDALENA -- EL PIÑON](reportes/47258.pdf)
 
-[META -- SAN JUAN DE ARAMA](reportes/50683)
+[META -- SAN JUAN DE ARAMA](reportes/50683.pdf)
 
-[NARIÑO -- SAPUYES](reportes/52720)
+[NARIÑO -- SAPUYES](reportes/52720.pdf)
 
-[NARIÑO -- BELÉN](reportes/52083)
+[NARIÑO -- BELÉN](reportes/52083.pdf)
 
-[NARIÑO -- CHACHAGÃœÍ](reportes/52240)
+[NARIÑO -- CHACHAGÃœÍ](reportes/52240.pdf)
 
-[NARIÑO -- LOS ANDES](reportes/52418)
+[NARIÑO -- LOS ANDES](reportes/52418.pdf)
 
-[NARIÑO -- LA UNIÓN](reportes/52399)
+[NARIÑO -- LA UNIÓN](reportes/52399.pdf)
 
-[NARIÑO -- CUMBITARA](reportes/52233)
+[NARIÑO -- CUMBITARA](reportes/52233.pdf)
 
-[NARIÑO -- SANTACRUZ](reportes/52699)
+[NARIÑO -- SANTACRUZ](reportes/52699.pdf)
 
-[NARIÑO -- SANDONÁ](reportes/52683)
+[NARIÑO -- SANDONÁ](reportes/52683.pdf)
 
-[NARIÑO -- ALBÁN](reportes/52019)
+[NARIÑO -- ALBÁN](reportes/52019.pdf)
 
-[NORTE DE SANTANDER -- CACHIRÁ](reportes/54128)
+[NORTE DE SANTANDER -- CACHIRÁ](reportes/54128.pdf)
 
-[NORTE DE SANTANDER -- EL ZULIA](reportes/54261)
+[NORTE DE SANTANDER -- EL ZULIA](reportes/54261.pdf)
 
-[NORTE DE SANTANDER -- LABATECA](reportes/54377)
+[NORTE DE SANTANDER -- LABATECA](reportes/54377.pdf)
 
-[NORTE DE SANTANDER -- EL TARRA](reportes/54250)
+[NORTE DE SANTANDER -- EL TARRA](reportes/54250.pdf)
 
-[PUTUMAYO -- PUERTO ASÍS](reportes/86568)
+[PUTUMAYO -- PUERTO ASÍS](reportes/86568.pdf)
 
-[RISARALDA -- QUINCHÍA](reportes/66594)
+[RISARALDA -- QUINCHÍA](reportes/66594.pdf)
 
-[RISARALDA -- GUÁTICA](reportes/66318)
+[RISARALDA -- GUÁTICA](reportes/66318.pdf)
 
-[SANTANDER -- JESÚS MARÍA](reportes/68368)
+[SANTANDER -- JESÚS MARÍA](reportes/68368.pdf)
 
-[SANTANDER -- FLORIÁN](reportes/68271)
+[SANTANDER -- FLORIÁN](reportes/68271.pdf)
 
-[SANTANDER -- BARICHARA](reportes/68079)
+[SANTANDER -- BARICHARA](reportes/68079.pdf)
 
-[SANTANDER -- CIMITARRA](reportes/68190)
+[SANTANDER -- CIMITARRA](reportes/68190.pdf)
 
-[SANTANDER -- CERRITO](reportes/68162)
+[SANTANDER -- CERRITO](reportes/68162.pdf)
 
-[SANTANDER -- CURITÍ](reportes/68229)
+[SANTANDER -- CURITÍ](reportes/68229.pdf)
 
-[SANTANDER -- LANDÁZURI](reportes/68385)
+[SANTANDER -- LANDÁZURI](reportes/68385.pdf)
 
-[SANTANDER -- BETULIA](reportes/68092)
+[SANTANDER -- BETULIA](reportes/68092.pdf)
 
-[SUCRE -- SAN PEDRO](reportes/70717)
+[SUCRE -- SAN PEDRO](reportes/70717.pdf)
 
-[SUCRE -- OVEJAS](reportes/70508)
+[SUCRE -- OVEJAS](reportes/70508.pdf)
 
-[SUCRE -- SAMPUÉS](reportes/70670)
+[SUCRE -- SAMPUÉS](reportes/70670.pdf)
 
-[TOLIMA -- CHAPARRAL](reportes/73168)
+[TOLIMA -- CHAPARRAL](reportes/73168.pdf)
 
-[TOLIMA -- ATACO](reportes/73067)
+[TOLIMA -- ATACO](reportes/73067.pdf)
 
-[TOLIMA -- ORTEGA](reportes/73504)
+[TOLIMA -- ORTEGA](reportes/73504.pdf)
 
-[TOLIMA -- NATAGAIMA](reportes/73483)
+[TOLIMA -- NATAGAIMA](reportes/73483.pdf)
 
-[TOLIMA -- ROVIRA](reportes/73624)
+[TOLIMA -- ROVIRA](reportes/73624.pdf)
 
-[TOLIMA -- ALPUJARRA](reportes/73024)
+[TOLIMA -- ALPUJARRA](reportes/73024.pdf)
 
-[VALLE DEL CAUCA -- PALMIRA](reportes/76520)
+[VALLE DEL CAUCA -- PALMIRA](reportes/76520.pdf)
 
-[VALLE DEL CAUCA -- LA UNIÓN](reportes/76400)
+[VALLE DEL CAUCA -- LA UNIÓN](reportes/76400.pdf)
 
-[VALLE DEL CAUCA -- FLORIDA](reportes/76275)
+[VALLE DEL CAUCA -- FLORIDA](reportes/76275.pdf)
 
-[ANTIOQUIA -- APARTADÓ](reportes/5045)
+[ANTIOQUIA -- APARTADÓ](reportes/5045.pdf)
 
-[ANTIOQUIA -- LA PINTADA](reportes/5390)
+[ANTIOQUIA -- LA PINTADA](reportes/5390.pdf)
 
-[ANTIOQUIA -- SAN PEDRO DE LOS MILAGROS](reportes/5664)
+[ANTIOQUIA -- SAN PEDRO DE LOS MILAGROS](reportes/5664.pdf)
 
-[ANTIOQUIA -- TARAZÁ](reportes/5790)
+[ANTIOQUIA -- TARAZÁ](reportes/5790.pdf)
 
-[ANTIOQUIA -- SAN FRANCISCO](reportes/5652)
+[ANTIOQUIA -- SAN FRANCISCO](reportes/5652.pdf)
 
-[ANTIOQUIA -- AMAGÁ](reportes/5030)
+[ANTIOQUIA -- AMAGÁ](reportes/5030.pdf)
 
-[ANTIOQUIA -- SAN RAFAEL](reportes/5667)
+[ANTIOQUIA -- SAN RAFAEL](reportes/5667.pdf)
 
-[ANTIOQUIA -- CIUDAD BOLÍVAR](reportes/5101)
+[ANTIOQUIA -- CIUDAD BOLÍVAR](reportes/5101.pdf)
 
-[ANTIOQUIA -- LA UNIÓN](reportes/5400)
+[ANTIOQUIA -- LA UNIÓN](reportes/5400.pdf)
 
-[ANTIOQUIA -- SAN VICENTE](reportes/5674)
+[ANTIOQUIA -- SAN VICENTE](reportes/5674.pdf)
 
-[ANTIOQUIA -- RIONEGRO](reportes/5615)
+[ANTIOQUIA -- RIONEGRO](reportes/5615.pdf)
 
-[ANTIOQUIA -- CALDAS](reportes/5129)
+[ANTIOQUIA -- CALDAS](reportes/5129.pdf)
 
-[ANTIOQUIA -- GÓMEZ PLATA](reportes/5310)
+[ANTIOQUIA -- GÓMEZ PLATA](reportes/5310.pdf)
 
-[ANTIOQUIA -- MARINILLA](reportes/5440)
+[ANTIOQUIA -- MARINILLA](reportes/5440.pdf)
 
-[ANTIOQUIA -- CAICEDO](reportes/5125)
+[ANTIOQUIA -- CAICEDO](reportes/5125.pdf)
 
-[ATLÁNTICO -- BARANOA](reportes/8078)
+[ATLÁNTICO -- BARANOA](reportes/8078.pdf)
 
-[ATLÁNTICO -- TUBARÁ](reportes/8832)
+[ATLÁNTICO -- TUBARÁ](reportes/8832.pdf)
 
-[ATLÁNTICO -- PUERTO COLOMBIA](reportes/8573)
+[ATLÁNTICO -- PUERTO COLOMBIA](reportes/8573.pdf)
 
-[ATLÁNTICO -- SABANALARGA](reportes/8638)
+[ATLÁNTICO -- SABANALARGA](reportes/8638.pdf)
 
-[BOLÍVAR -- EL CARMEN DE BOLÍVAR](reportes/13244)
+[BOLÍVAR -- EL CARMEN DE BOLÍVAR](reportes/13244.pdf)
 
-[BOYACÁ -- UMBITA](reportes/15842)
+[BOYACÁ -- UMBITA](reportes/15842.pdf)
 
-[BOYACÁ -- SANTA ROSA DE VITERBO](reportes/15693)
+[BOYACÁ -- SANTA ROSA DE VITERBO](reportes/15693.pdf)
 
-[BOYACÁ -- SAN LUIS DE GACENO](reportes/15667)
+[BOYACÁ -- SAN LUIS DE GACENO](reportes/15667.pdf)
 
-[BOYACÁ -- FIRAVITOBA](reportes/15272)
+[BOYACÁ -- FIRAVITOBA](reportes/15272.pdf)
 
-[BOYACÁ -- NOBSA](reportes/15491)
+[BOYACÁ -- NOBSA](reportes/15491.pdf)
 
-[BOYACÁ -- NUEVO COLÓN](reportes/15494)
+[BOYACÁ -- NUEVO COLÓN](reportes/15494.pdf)
 
-[BOYACÁ -- SANTA SOFÍA](reportes/15696)
+[BOYACÁ -- SANTA SOFÍA](reportes/15696.pdf)
 
-[BOYACÁ -- JENESANO](reportes/15367)
+[BOYACÁ -- JENESANO](reportes/15367.pdf)
 
-[CALDAS -- SAN JOSÉ](reportes/17665)
+[CALDAS -- SAN JOSÉ](reportes/17665.pdf)
 
-[CALDAS -- AGUADAS](reportes/17013)
+[CALDAS -- AGUADAS](reportes/17013.pdf)
 
-[CALDAS -- PENSILVANIA](reportes/17541)
+[CALDAS -- PENSILVANIA](reportes/17541.pdf)
 
-[CALDAS -- SAMANÁ](reportes/17662)
+[CALDAS -- SAMANÁ](reportes/17662.pdf)
 
-[CAQUETÁ -- PUERTO RICO](reportes/18592)
+[CAQUETÁ -- PUERTO RICO](reportes/18592.pdf)
 
-[CAQUETÁ -- CARTAGENA DEL CHAIRÁ](reportes/18150)
+[CAQUETÁ -- CARTAGENA DEL CHAIRÁ](reportes/18150.pdf)
 
-[CAQUETÁ -- SOLITA](reportes/18785)
+[CAQUETÁ -- SOLITA](reportes/18785.pdf)
 
-[CAQUETÁ -- SOLANO](reportes/18756)
+[CAQUETÁ -- SOLANO](reportes/18756.pdf)
 
-[CAUCA -- INZÁ](reportes/19355)
+[CAUCA -- INZÁ](reportes/19355.pdf)
 
-[CAUCA -- TORIBIO](reportes/19821)
+[CAUCA -- TORIBIO](reportes/19821.pdf)
 
-[CAUCA -- LÓPEZ](reportes/19418)
+[CAUCA -- LÓPEZ](reportes/19418.pdf)
 
-[CAUCA -- SANTANDER DE QUILICHAO](reportes/19698)
+[CAUCA -- SANTANDER DE QUILICHAO](reportes/19698.pdf)
 
-[CAUCA -- ALMAGUER](reportes/19022)
+[CAUCA -- ALMAGUER](reportes/19022.pdf)
 
-[CESAR -- AGUSTÍN CODAZZI](reportes/20013)
+[CESAR -- AGUSTÍN CODAZZI](reportes/20013.pdf)
 
-[CESAR -- RÍO DE ORO](reportes/20614)
+[CESAR -- RÍO DE ORO](reportes/20614.pdf)
 
-[CESAR -- EL COPEY](reportes/20238)
+[CESAR -- EL COPEY](reportes/20238.pdf)
 
-[CHOCÓ -- TADÓ](reportes/27787)
+[CHOCÓ -- TADÓ](reportes/27787.pdf)
 
-[CHOCÓ -- LLORÓ](reportes/27413)
+[CHOCÓ -- LLORÓ](reportes/27413.pdf)
 
-[CHOCÓ -- MEDIO BAUDÓ](reportes/27430)
+[CHOCÓ -- MEDIO BAUDÓ](reportes/27430.pdf)
 
-[CUNDINAMARCA -- PUERTO SALGAR](reportes/25572)
+[CUNDINAMARCA -- PUERTO SALGAR](reportes/25572.pdf)
 
-[CUNDINAMARCA -- CACHIPAY](reportes/25123)
+[CUNDINAMARCA -- CACHIPAY](reportes/25123.pdf)
 
-[CUNDINAMARCA -- MOSQUERA](reportes/25473)
+[CUNDINAMARCA -- MOSQUERA](reportes/25473.pdf)
 
-[CUNDINAMARCA -- VILLA DE SAN DIEGO DE UBATE](reportes/25843)
+[CUNDINAMARCA -- VILLA DE SAN DIEGO DE UBATE](reportes/25843.pdf)
 
-[CUNDINAMARCA -- SUPATÁ](reportes/25777)
+[CUNDINAMARCA -- SUPATÁ](reportes/25777.pdf)
 
-[CUNDINAMARCA -- CUCUNUBÁ](reportes/25224)
+[CUNDINAMARCA -- CUCUNUBÁ](reportes/25224.pdf)
 
-[CUNDINAMARCA -- ANOLAIMA](reportes/25040)
+[CUNDINAMARCA -- ANOLAIMA](reportes/25040.pdf)
 
-[CUNDINAMARCA -- CHÍA](reportes/25175)
+[CUNDINAMARCA -- CHÍA](reportes/25175.pdf)
 
-[CUNDINAMARCA -- LENGUAZAQUE](reportes/25407)
+[CUNDINAMARCA -- LENGUAZAQUE](reportes/25407.pdf)
 
-[CUNDINAMARCA -- SAN BERNARDO](reportes/25649)
+[CUNDINAMARCA -- SAN BERNARDO](reportes/25649.pdf)
 
-[CUNDINAMARCA -- SAN FRANCISCO](reportes/25658)
+[CUNDINAMARCA -- SAN FRANCISCO](reportes/25658.pdf)
 
-[CUNDINAMARCA -- YACOPÍ](reportes/25885)
+[CUNDINAMARCA -- YACOPÍ](reportes/25885.pdf)
 
-[CÓRDOBA -- TIERRALTA](reportes/23807)
+[CÓRDOBA -- TIERRALTA](reportes/23807.pdf)
 
-[HUILA -- CAMPOALEGRE](reportes/41132)
+[HUILA -- CAMPOALEGRE](reportes/41132.pdf)
 
-[HUILA -- BARAYA](reportes/41078)
+[HUILA -- BARAYA](reportes/41078.pdf)
 
-[HUILA -- PITAL](reportes/41548)
+[HUILA -- PITAL](reportes/41548.pdf)
 
-[HUILA -- PITALITO](reportes/41551)
+[HUILA -- PITALITO](reportes/41551.pdf)
 
-[MAGDALENA -- SANTA BÁRBARA DE PINTO](reportes/47720)
+[MAGDALENA -- SANTA BÁRBARA DE PINTO](reportes/47720.pdf)
 
-[MAGDALENA -- ZONA BANANERA](reportes/47980)
+[MAGDALENA -- ZONA BANANERA](reportes/47980.pdf)
 
-[META -- VILLAVICENCIO](reportes/50001)
+[META -- VILLAVICENCIO](reportes/50001.pdf)
 
-[META -- SAN MARTÍN](reportes/50689)
+[META -- SAN MARTÍN](reportes/50689.pdf)
 
-[META -- PUERTO GAITÁN](reportes/50568)
+[META -- PUERTO GAITÁN](reportes/50568.pdf)
 
-[META -- CUMARAL](reportes/50226)
+[META -- CUMARAL](reportes/50226.pdf)
 
-[NARIÑO -- PUPIALES](reportes/52585)
+[NARIÑO -- PUPIALES](reportes/52585.pdf)
 
-[NARIÑO -- EL PEÑOL](reportes/52254)
+[NARIÑO -- EL PEÑOL](reportes/52254.pdf)
 
-[NARIÑO -- ALDANA](reportes/52022)
+[NARIÑO -- ALDANA](reportes/52022.pdf)
 
-[NARIÑO -- OLAYA HERRERA](reportes/52490)
+[NARIÑO -- OLAYA HERRERA](reportes/52490.pdf)
 
-[NARIÑO -- ARBOLEDA](reportes/52051)
+[NARIÑO -- ARBOLEDA](reportes/52051.pdf)
 
-[NARIÑO -- NARIÑO](reportes/52480)
+[NARIÑO -- NARIÑO](reportes/52480.pdf)
 
-[NARIÑO -- LA FLORIDA](reportes/52381)
+[NARIÑO -- LA FLORIDA](reportes/52381.pdf)
 
-[NORTE DE SANTANDER -- TEORAMA](reportes/54800)
+[NORTE DE SANTANDER -- TEORAMA](reportes/54800.pdf)
 
-[NORTE DE SANTANDER -- RAGONVALIA](reportes/54599)
+[NORTE DE SANTANDER -- RAGONVALIA](reportes/54599.pdf)
 
-[NORTE DE SANTANDER -- ARBOLEDAS](reportes/54051)
+[NORTE DE SANTANDER -- ARBOLEDAS](reportes/54051.pdf)
 
-[NORTE DE SANTANDER -- CHINÁCOTA](reportes/54172)
+[NORTE DE SANTANDER -- CHINÁCOTA](reportes/54172.pdf)
 
-[NORTE DE SANTANDER -- ABREGO](reportes/54003)
+[NORTE DE SANTANDER -- ABREGO](reportes/54003.pdf)
 
-[PUTUMAYO -- COLÓN](reportes/86219)
+[PUTUMAYO -- COLÓN](reportes/86219.pdf)
 
-[PUTUMAYO -- SANTIAGO](reportes/86760)
+[PUTUMAYO -- SANTIAGO](reportes/86760.pdf)
 
-[QUINDIO -- QUIMBAYA](reportes/63594)
+[QUINDIO -- QUIMBAYA](reportes/63594.pdf)
 
-[RISARALDA -- BELÉN DE UMBRÍA](reportes/66088)
+[RISARALDA -- BELÉN DE UMBRÍA](reportes/66088.pdf)
 
-[SANTANDER -- ENCINO](reportes/68264)
+[SANTANDER -- ENCINO](reportes/68264.pdf)
 
-[SANTANDER -- BARRANCABERMEJA](reportes/68081)
+[SANTANDER -- BARRANCABERMEJA](reportes/68081.pdf)
 
-[SANTANDER -- CALIFORNIA](reportes/68132)
+[SANTANDER -- CALIFORNIA](reportes/68132.pdf)
 
-[SANTANDER -- GUACA](reportes/68318)
+[SANTANDER -- GUACA](reportes/68318.pdf)
 
-[SANTANDER -- SABANA DE TORRES](reportes/68655)
+[SANTANDER -- SABANA DE TORRES](reportes/68655.pdf)
 
-[SANTANDER -- ONZAGA](reportes/68502)
+[SANTANDER -- ONZAGA](reportes/68502.pdf)
 
-[SANTANDER -- GUAVATÁ](reportes/68324)
+[SANTANDER -- GUAVATÁ](reportes/68324.pdf)
 
-[SANTANDER -- EL PLAYÓN](reportes/68255)
+[SANTANDER -- EL PLAYÓN](reportes/68255.pdf)
 
-[SANTANDER -- CHIMA](reportes/68176)
+[SANTANDER -- CHIMA](reportes/68176.pdf)
 
-[SANTANDER -- MOGOTES](reportes/68464)
+[SANTANDER -- MOGOTES](reportes/68464.pdf)
 
-[SANTANDER -- PUENTE NACIONAL](reportes/68572)
+[SANTANDER -- PUENTE NACIONAL](reportes/68572.pdf)
 
-[SUCRE -- SAN ONOFRE](reportes/70713)
+[SUCRE -- SAN ONOFRE](reportes/70713.pdf)
 
-[SUCRE -- SAN MARCOS](reportes/70708)
+[SUCRE -- SAN MARCOS](reportes/70708.pdf)
 
-[TOLIMA -- ARMERO](reportes/73055)
+[TOLIMA -- ARMERO](reportes/73055.pdf)
 
-[TOLIMA -- ESPINAL](reportes/73268)
+[TOLIMA -- ESPINAL](reportes/73268.pdf)
 
-[VALLE DEL CAUCA -- BUGALAGRANDE](reportes/76113)
+[VALLE DEL CAUCA -- BUGALAGRANDE](reportes/76113.pdf)
 
-[VALLE DEL CAUCA -- GUADALAJARA DE BUGA](reportes/76111)
+[VALLE DEL CAUCA -- GUADALAJARA DE BUGA](reportes/76111.pdf)
 
-[VALLE DEL CAUCA -- LA VICTORIA](reportes/76403)
+[VALLE DEL CAUCA -- LA VICTORIA](reportes/76403.pdf)
 
