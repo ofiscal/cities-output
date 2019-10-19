@@ -1,418 +1,418 @@
 Estos son los reportes (solamente para municipios tratados) generado por el software situado en https://github.com/ofiscal/cities
 
-[ANTIOQUIA -- DONMATÍAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5237.pdf)
+[ANTIOQUIA -- DONMATÍAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5237.pdf)
 
-[ANTIOQUIA -- COPACABANA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5212.pdf)
+[ANTIOQUIA -- COPACABANA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5212.pdf)
 
-[ANTIOQUIA -- FRONTINO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5284.pdf)
+[ANTIOQUIA -- FRONTINO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5284.pdf)
 
-[ANTIOQUIA -- FREDONIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5282.pdf)
+[ANTIOQUIA -- FREDONIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5282.pdf)
 
-[ANTIOQUIA -- ANGOSTURA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5038.pdf)
+[ANTIOQUIA -- ANGOSTURA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5038.pdf)
 
-[ANTIOQUIA -- ZARAGOZA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5895.pdf)
+[ANTIOQUIA -- ZARAGOZA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5895.pdf)
 
-[ANTIOQUIA -- SANTA BÁRBARA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5679.pdf)
+[ANTIOQUIA -- SANTA BÁRBARA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5679.pdf)
 
-[ANTIOQUIA -- RETIRO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5607.pdf)
+[ANTIOQUIA -- RETIRO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5607.pdf)
 
-[ANTIOQUIA -- SANTAFÉ DE ANTIOQUIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5042.pdf)
+[ANTIOQUIA -- SANTAFÉ DE ANTIOQUIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5042.pdf)
 
-[ANTIOQUIA -- COCORNÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5197.pdf)
+[ANTIOQUIA -- COCORNÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5197.pdf)
 
-[ANTIOQUIA -- BURITICÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5113.pdf)
+[ANTIOQUIA -- BURITICÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5113.pdf)
 
-[ANTIOQUIA -- CARACOLÍ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5142.pdf)
+[ANTIOQUIA -- CARACOLÍ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5142.pdf)
 
-[ANTIOQUIA -- HELICONIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5347.pdf)
+[ANTIOQUIA -- HELICONIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5347.pdf)
 
-[ANTIOQUIA -- SEGOVIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5736.pdf)
+[ANTIOQUIA -- SEGOVIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5736.pdf)
 
-[ANTIOQUIA -- JARDÍN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5364.pdf)
+[ANTIOQUIA -- JARDÍN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5364.pdf)
 
-[ANTIOQUIA -- URRAO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5847.pdf)
+[ANTIOQUIA -- URRAO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5847.pdf)
 
-[ARAUCA -- ARAUQUITA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/81065.pdf)
+[ARAUCA -- ARAUQUITA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/81065.pdf)
 
-[ATLÁNTICO -- PALMAR DE VARELA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8520.pdf)
+[ATLÁNTICO -- PALMAR DE VARELA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8520.pdf)
 
-[ATLÁNTICO -- USIACURÍ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8849.pdf)
+[ATLÁNTICO -- USIACURÍ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8849.pdf)
 
-[BOLÍVAR -- MAGANGUÉ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13430.pdf)
+[BOLÍVAR -- MAGANGUÉ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13430.pdf)
 
-[BOLÍVAR -- MONTECRISTO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13458.pdf)
+[BOLÍVAR -- MONTECRISTO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13458.pdf)
 
-[BOLÍVAR -- ARJONA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13052.pdf)
+[BOLÍVAR -- ARJONA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13052.pdf)
 
-[BOLÍVAR -- MARGARITA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13440.pdf)
+[BOLÍVAR -- MARGARITA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13440.pdf)
 
-[BOLÍVAR -- TURBACO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13836.pdf)
+[BOLÍVAR -- TURBACO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13836.pdf)
 
-[BOLÍVAR -- RÍO VIEJO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13600.pdf)
+[BOLÍVAR -- RÍO VIEJO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13600.pdf)
 
-[BOYACÁ -- AQUITANIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15047.pdf)
+[BOYACÁ -- AQUITANIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15047.pdf)
 
-[BOYACÁ -- MACANAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15425.pdf)
+[BOYACÁ -- MACANAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15425.pdf)
 
-[BOYACÁ -- OICATÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15500.pdf)
+[BOYACÁ -- OICATÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15500.pdf)
 
-[BOYACÁ -- TUTA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15837.pdf)
+[BOYACÁ -- TUTA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15837.pdf)
 
-[BOYACÁ -- VILLA DE LEYVA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15407.pdf)
+[BOYACÁ -- VILLA DE LEYVA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15407.pdf)
 
-[BOYACÁ -- ZETAQUIRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15897.pdf)
+[BOYACÁ -- ZETAQUIRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15897.pdf)
 
-[BOYACÁ -- CALDAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15131.pdf)
+[BOYACÁ -- CALDAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15131.pdf)
 
-[BOYACÁ -- CÓMBITA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15204.pdf)
+[BOYACÁ -- CÓMBITA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15204.pdf)
 
-[BOYACÁ -- SOATÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15753.pdf)
+[BOYACÁ -- SOATÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15753.pdf)
 
-[CALDAS -- MANIZALES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17001.pdf)
+[CALDAS -- MANIZALES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17001.pdf)
 
-[CALDAS -- RISARALDA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17616.pdf)
+[CALDAS -- RISARALDA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17616.pdf)
 
-[CALDAS -- CHINCHINÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17174.pdf)
+[CALDAS -- CHINCHINÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17174.pdf)
 
-[CASANARE -- NUNCHÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/85225.pdf)
+[CASANARE -- NUNCHÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/85225.pdf)
 
-[CASANARE -- SÁCAMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/85315.pdf)
+[CASANARE -- SÁCAMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/85315.pdf)
 
-[CASANARE -- YOPAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/85001.pdf)
+[CASANARE -- YOPAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/85001.pdf)
 
-[CASANARE -- HATO COROZAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/85125.pdf)
+[CASANARE -- HATO COROZAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/85125.pdf)
 
-[CAUCA -- JAMBALÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19364.pdf)
+[CAUCA -- JAMBALÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19364.pdf)
 
-[CAUCA -- EL TAMBO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19256.pdf)
+[CAUCA -- EL TAMBO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19256.pdf)
 
-[CESAR -- ASTREA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20032.pdf)
+[CESAR -- ASTREA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20032.pdf)
 
-[CESAR -- BECERRIL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20045.pdf)
+[CESAR -- BECERRIL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20045.pdf)
 
-[CESAR -- LA JAGUA DE IBIRICO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20400.pdf)
+[CESAR -- LA JAGUA DE IBIRICO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20400.pdf)
 
-[CHOCÓ -- EL CARMEN DE ATRATO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/27245.pdf)
+[CHOCÓ -- EL CARMEN DE ATRATO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/27245.pdf)
 
-[CHOCÓ -- ISTMINA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/27361.pdf)
+[CHOCÓ -- ISTMINA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/27361.pdf)
 
-[CUNDINAMARCA -- GIRARDOT](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25307.pdf)
+[CUNDINAMARCA -- GIRARDOT](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25307.pdf)
 
-[CUNDINAMARCA -- ANAPOIMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25035.pdf)
+[CUNDINAMARCA -- ANAPOIMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25035.pdf)
 
-[CUNDINAMARCA -- MADRID](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25430.pdf)
+[CUNDINAMARCA -- MADRID](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25430.pdf)
 
-[CUNDINAMARCA -- FUSAGASUGÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25290.pdf)
+[CUNDINAMARCA -- FUSAGASUGÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25290.pdf)
 
-[CUNDINAMARCA -- ZIPAQUIRÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25899.pdf)
+[CUNDINAMARCA -- ZIPAQUIRÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25899.pdf)
 
-[CUNDINAMARCA -- UBALÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25839.pdf)
+[CUNDINAMARCA -- UBALÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25839.pdf)
 
-[CUNDINAMARCA -- LA MESA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25386.pdf)
+[CUNDINAMARCA -- LA MESA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25386.pdf)
 
-[CUNDINAMARCA -- SOPÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25758.pdf)
+[CUNDINAMARCA -- SOPÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25758.pdf)
 
-[CUNDINAMARCA -- GUADUAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25320.pdf)
+[CUNDINAMARCA -- GUADUAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25320.pdf)
 
-[CÓRDOBA -- SAN ANDRÉS SOTAVENTO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/23670.pdf)
+[CÓRDOBA -- SAN ANDRÉS SOTAVENTO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/23670.pdf)
 
-[CÓRDOBA -- CIÉNAGA DE ORO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/23189.pdf)
+[CÓRDOBA -- CIÉNAGA DE ORO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/23189.pdf)
 
-[GUAINÍA -- INÍRIDA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/94001.pdf)
+[GUAINÍA -- INÍRIDA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/94001.pdf)
 
-[GUAVIARE -- EL RETORNO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/95025.pdf)
+[GUAVIARE -- EL RETORNO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/95025.pdf)
 
-[HUILA -- PALERMO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41524.pdf)
+[HUILA -- PALERMO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41524.pdf)
 
-[HUILA -- IQUIRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41357.pdf)
+[HUILA -- IQUIRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41357.pdf)
 
-[HUILA -- SAN AGUSTÍN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41668.pdf)
+[HUILA -- SAN AGUSTÍN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41668.pdf)
 
-[LA GUAJIRA -- MAICAO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/44430.pdf)
+[LA GUAJIRA -- MAICAO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/44430.pdf)
 
-[MAGDALENA -- CIÉNAGA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/47189.pdf)
+[MAGDALENA -- CIÉNAGA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/47189.pdf)
 
-[MAGDALENA -- EL PIÑON](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/47258.pdf)
+[MAGDALENA -- EL PIÑON](http://luiscarlosreyes.com/wp-content/uploads/2019/10/47258.pdf)
 
-[META -- SAN JUAN DE ARAMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/50683.pdf)
+[META -- SAN JUAN DE ARAMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/50683.pdf)
 
-[NARIÑO -- SAPUYES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52720.pdf)
+[NARIÑO -- SAPUYES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52720.pdf)
 
-[NARIÑO -- BELÉN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52083.pdf)
+[NARIÑO -- BELÉN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52083.pdf)
 
-[NARIÑO -- CHACHAGÃœÍ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52240.pdf)
+[NARIÑO -- CHACHAGÃœÍ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52240.pdf)
 
-[NARIÑO -- LOS ANDES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52418.pdf)
+[NARIÑO -- LOS ANDES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52418.pdf)
 
-[NARIÑO -- LA UNIÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52399.pdf)
+[NARIÑO -- LA UNIÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52399.pdf)
 
-[NARIÑO -- CUMBITARA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52233.pdf)
+[NARIÑO -- CUMBITARA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52233.pdf)
 
-[NARIÑO -- SANTACRUZ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52699.pdf)
+[NARIÑO -- SANTACRUZ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52699.pdf)
 
-[NARIÑO -- SANDONÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52683.pdf)
+[NARIÑO -- SANDONÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52683.pdf)
 
-[NARIÑO -- ALBÁN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52019.pdf)
+[NARIÑO -- ALBÁN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52019.pdf)
 
-[NORTE DE SANTANDER -- CACHIRÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54128.pdf)
+[NORTE DE SANTANDER -- CACHIRÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54128.pdf)
 
-[NORTE DE SANTANDER -- EL ZULIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54261.pdf)
+[NORTE DE SANTANDER -- EL ZULIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54261.pdf)
 
-[NORTE DE SANTANDER -- LABATECA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54377.pdf)
+[NORTE DE SANTANDER -- LABATECA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54377.pdf)
 
-[NORTE DE SANTANDER -- EL TARRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54250.pdf)
+[NORTE DE SANTANDER -- EL TARRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54250.pdf)
 
-[PUTUMAYO -- PUERTO ASÍS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/86568.pdf)
+[PUTUMAYO -- PUERTO ASÍS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/86568.pdf)
 
-[RISARALDA -- QUINCHÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/66594.pdf)
+[RISARALDA -- QUINCHÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/66594.pdf)
 
-[RISARALDA -- GUÁTICA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/66318.pdf)
+[RISARALDA -- GUÁTICA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/66318.pdf)
 
-[SANTANDER -- JESÚS MARÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68368.pdf)
+[SANTANDER -- JESÚS MARÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68368.pdf)
 
-[SANTANDER -- FLORIÁN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68271.pdf)
+[SANTANDER -- FLORIÁN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68271.pdf)
 
-[SANTANDER -- BARICHARA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68079.pdf)
+[SANTANDER -- BARICHARA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68079.pdf)
 
-[SANTANDER -- CIMITARRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68190.pdf)
+[SANTANDER -- CIMITARRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68190.pdf)
 
-[SANTANDER -- CERRITO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68162.pdf)
+[SANTANDER -- CERRITO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68162.pdf)
 
-[SANTANDER -- CURITÍ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68229.pdf)
+[SANTANDER -- CURITÍ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68229.pdf)
 
-[SANTANDER -- LANDÁZURI](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68385.pdf)
+[SANTANDER -- LANDÁZURI](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68385.pdf)
 
-[SANTANDER -- BETULIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68092.pdf)
+[SANTANDER -- BETULIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68092.pdf)
 
-[SUCRE -- SAN PEDRO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/70717.pdf)
+[SUCRE -- SAN PEDRO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/70717.pdf)
 
-[SUCRE -- OVEJAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/70508.pdf)
+[SUCRE -- OVEJAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/70508.pdf)
 
-[SUCRE -- SAMPUÉS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/70670.pdf)
+[SUCRE -- SAMPUÉS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/70670.pdf)
 
-[TOLIMA -- CHAPARRAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73168.pdf)
+[TOLIMA -- CHAPARRAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73168.pdf)
 
-[TOLIMA -- ATACO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73067.pdf)
+[TOLIMA -- ATACO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73067.pdf)
 
-[TOLIMA -- ORTEGA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73504.pdf)
+[TOLIMA -- ORTEGA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73504.pdf)
 
-[TOLIMA -- NATAGAIMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73483.pdf)
+[TOLIMA -- NATAGAIMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73483.pdf)
 
-[TOLIMA -- ROVIRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73624.pdf)
+[TOLIMA -- ROVIRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73624.pdf)
 
-[TOLIMA -- ALPUJARRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73024.pdf)
+[TOLIMA -- ALPUJARRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73024.pdf)
 
-[VALLE DEL CAUCA -- PALMIRA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76520.pdf)
+[VALLE DEL CAUCA -- PALMIRA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76520.pdf)
 
-[VALLE DEL CAUCA -- LA UNIÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76400.pdf)
+[VALLE DEL CAUCA -- LA UNIÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76400.pdf)
 
-[VALLE DEL CAUCA -- FLORIDA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76275.pdf)
+[VALLE DEL CAUCA -- FLORIDA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76275.pdf)
 
-[ANTIOQUIA -- APARTADÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5045.pdf)
+[ANTIOQUIA -- APARTADÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5045.pdf)
 
-[ANTIOQUIA -- LA PINTADA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5390.pdf)
+[ANTIOQUIA -- LA PINTADA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5390.pdf)
 
-[ANTIOQUIA -- SAN PEDRO DE LOS MILAGROS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5664.pdf)
+[ANTIOQUIA -- SAN PEDRO DE LOS MILAGROS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5664.pdf)
 
-[ANTIOQUIA -- TARAZÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5790.pdf)
+[ANTIOQUIA -- TARAZÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5790.pdf)
 
-[ANTIOQUIA -- SAN FRANCISCO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5652.pdf)
+[ANTIOQUIA -- SAN FRANCISCO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5652.pdf)
 
-[ANTIOQUIA -- AMAGÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5030.pdf)
+[ANTIOQUIA -- AMAGÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5030.pdf)
 
-[ANTIOQUIA -- SAN RAFAEL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5667.pdf)
+[ANTIOQUIA -- SAN RAFAEL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5667.pdf)
 
-[ANTIOQUIA -- CIUDAD BOLÍVAR](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5101.pdf)
+[ANTIOQUIA -- CIUDAD BOLÍVAR](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5101.pdf)
 
-[ANTIOQUIA -- LA UNIÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5400.pdf)
+[ANTIOQUIA -- LA UNIÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5400.pdf)
 
-[ANTIOQUIA -- SAN VICENTE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5674.pdf)
+[ANTIOQUIA -- SAN VICENTE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5674.pdf)
 
-[ANTIOQUIA -- RIONEGRO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5615.pdf)
+[ANTIOQUIA -- RIONEGRO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5615.pdf)
 
-[ANTIOQUIA -- CALDAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5129.pdf)
+[ANTIOQUIA -- CALDAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5129.pdf)
 
-[ANTIOQUIA -- GÓMEZ PLATA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5310.pdf)
+[ANTIOQUIA -- GÓMEZ PLATA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5310.pdf)
 
-[ANTIOQUIA -- MARINILLA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5440.pdf)
+[ANTIOQUIA -- MARINILLA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5440.pdf)
 
-[ANTIOQUIA -- CAICEDO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/5125.pdf)
+[ANTIOQUIA -- CAICEDO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/5125.pdf)
 
-[ATLÁNTICO -- BARANOA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8078.pdf)
+[ATLÁNTICO -- BARANOA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8078.pdf)
 
-[ATLÁNTICO -- TUBARÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8832.pdf)
+[ATLÁNTICO -- TUBARÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8832.pdf)
 
-[ATLÁNTICO -- PUERTO COLOMBIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8573.pdf)
+[ATLÁNTICO -- PUERTO COLOMBIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8573.pdf)
 
-[ATLÁNTICO -- SABANALARGA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/8638.pdf)
+[ATLÁNTICO -- SABANALARGA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/8638.pdf)
 
-[BOLÍVAR -- EL CARMEN DE BOLÍVAR](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/13244.pdf)
+[BOLÍVAR -- EL CARMEN DE BOLÍVAR](http://luiscarlosreyes.com/wp-content/uploads/2019/10/13244.pdf)
 
-[BOYACÁ -- UMBITA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15842.pdf)
+[BOYACÁ -- UMBITA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15842.pdf)
 
-[BOYACÁ -- SANTA ROSA DE VITERBO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15693.pdf)
+[BOYACÁ -- SANTA ROSA DE VITERBO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15693.pdf)
 
-[BOYACÁ -- SAN LUIS DE GACENO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15667.pdf)
+[BOYACÁ -- SAN LUIS DE GACENO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15667.pdf)
 
-[BOYACÁ -- FIRAVITOBA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15272.pdf)
+[BOYACÁ -- FIRAVITOBA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15272.pdf)
 
-[BOYACÁ -- NOBSA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15491.pdf)
+[BOYACÁ -- NOBSA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15491.pdf)
 
-[BOYACÁ -- NUEVO COLÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15494.pdf)
+[BOYACÁ -- NUEVO COLÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15494.pdf)
 
-[BOYACÁ -- SANTA SOFÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15696.pdf)
+[BOYACÁ -- SANTA SOFÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15696.pdf)
 
-[BOYACÁ -- JENESANO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/15367.pdf)
+[BOYACÁ -- JENESANO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/15367.pdf)
 
-[CALDAS -- SAN JOSÉ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17665.pdf)
+[CALDAS -- SAN JOSÉ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17665.pdf)
 
-[CALDAS -- AGUADAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17013.pdf)
+[CALDAS -- AGUADAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17013.pdf)
 
-[CALDAS -- PENSILVANIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17541.pdf)
+[CALDAS -- PENSILVANIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17541.pdf)
 
-[CALDAS -- SAMANÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/17662.pdf)
+[CALDAS -- SAMANÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/17662.pdf)
 
-[CAQUETÁ -- PUERTO RICO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/18592.pdf)
+[CAQUETÁ -- PUERTO RICO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/18592.pdf)
 
-[CAQUETÁ -- CARTAGENA DEL CHAIRÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/18150.pdf)
+[CAQUETÁ -- CARTAGENA DEL CHAIRÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/18150.pdf)
 
-[CAQUETÁ -- SOLITA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/18785.pdf)
+[CAQUETÁ -- SOLITA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/18785.pdf)
 
-[CAQUETÁ -- SOLANO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/18756.pdf)
+[CAQUETÁ -- SOLANO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/18756.pdf)
 
-[CAUCA -- INZÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19355.pdf)
+[CAUCA -- INZÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19355.pdf)
 
-[CAUCA -- TORIBIO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19821.pdf)
+[CAUCA -- TORIBIO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19821.pdf)
 
-[CAUCA -- LÓPEZ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19418.pdf)
+[CAUCA -- LÓPEZ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19418.pdf)
 
-[CAUCA -- SANTANDER DE QUILICHAO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19698.pdf)
+[CAUCA -- SANTANDER DE QUILICHAO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19698.pdf)
 
-[CAUCA -- ALMAGUER](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/19022.pdf)
+[CAUCA -- ALMAGUER](http://luiscarlosreyes.com/wp-content/uploads/2019/10/19022.pdf)
 
-[CESAR -- AGUSTÍN CODAZZI](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20013.pdf)
+[CESAR -- AGUSTÍN CODAZZI](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20013.pdf)
 
-[CESAR -- RÍO DE ORO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20614.pdf)
+[CESAR -- RÍO DE ORO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20614.pdf)
 
-[CESAR -- EL COPEY](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/20238.pdf)
+[CESAR -- EL COPEY](http://luiscarlosreyes.com/wp-content/uploads/2019/10/20238.pdf)
 
-[CHOCÓ -- TADÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/27787.pdf)
+[CHOCÓ -- TADÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/27787.pdf)
 
-[CHOCÓ -- LLORÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/27413.pdf)
+[CHOCÓ -- LLORÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/27413.pdf)
 
-[CHOCÓ -- MEDIO BAUDÓ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/27430.pdf)
+[CHOCÓ -- MEDIO BAUDÓ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/27430.pdf)
 
-[CUNDINAMARCA -- PUERTO SALGAR](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25572.pdf)
+[CUNDINAMARCA -- PUERTO SALGAR](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25572.pdf)
 
-[CUNDINAMARCA -- CACHIPAY](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25123.pdf)
+[CUNDINAMARCA -- CACHIPAY](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25123.pdf)
 
-[CUNDINAMARCA -- MOSQUERA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25473.pdf)
+[CUNDINAMARCA -- MOSQUERA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25473.pdf)
 
-[CUNDINAMARCA -- VILLA DE SAN DIEGO DE UBATE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25843.pdf)
+[CUNDINAMARCA -- VILLA DE SAN DIEGO DE UBATE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25843.pdf)
 
-[CUNDINAMARCA -- SUPATÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25777.pdf)
+[CUNDINAMARCA -- SUPATÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25777.pdf)
 
-[CUNDINAMARCA -- CUCUNUBÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25224.pdf)
+[CUNDINAMARCA -- CUCUNUBÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25224.pdf)
 
-[CUNDINAMARCA -- ANOLAIMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25040.pdf)
+[CUNDINAMARCA -- ANOLAIMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25040.pdf)
 
-[CUNDINAMARCA -- CHÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25175.pdf)
+[CUNDINAMARCA -- CHÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25175.pdf)
 
-[CUNDINAMARCA -- LENGUAZAQUE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25407.pdf)
+[CUNDINAMARCA -- LENGUAZAQUE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25407.pdf)
 
-[CUNDINAMARCA -- SAN BERNARDO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25649.pdf)
+[CUNDINAMARCA -- SAN BERNARDO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25649.pdf)
 
-[CUNDINAMARCA -- SAN FRANCISCO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25658.pdf)
+[CUNDINAMARCA -- SAN FRANCISCO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25658.pdf)
 
-[CUNDINAMARCA -- YACOPÍ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/25885.pdf)
+[CUNDINAMARCA -- YACOPÍ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/25885.pdf)
 
-[CÓRDOBA -- TIERRALTA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/23807.pdf)
+[CÓRDOBA -- TIERRALTA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/23807.pdf)
 
-[HUILA -- CAMPOALEGRE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41132.pdf)
+[HUILA -- CAMPOALEGRE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41132.pdf)
 
-[HUILA -- BARAYA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41078.pdf)
+[HUILA -- BARAYA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41078.pdf)
 
-[HUILA -- PITAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41548.pdf)
+[HUILA -- PITAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41548.pdf)
 
-[HUILA -- PITALITO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/41551.pdf)
+[HUILA -- PITALITO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/41551.pdf)
 
-[MAGDALENA -- SANTA BÁRBARA DE PINTO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/47720.pdf)
+[MAGDALENA -- SANTA BÁRBARA DE PINTO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/47720.pdf)
 
-[MAGDALENA -- ZONA BANANERA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/47980.pdf)
+[MAGDALENA -- ZONA BANANERA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/47980.pdf)
 
-[META -- VILLAVICENCIO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/50001.pdf)
+[META -- VILLAVICENCIO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/50001.pdf)
 
-[META -- SAN MARTÍN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/50689.pdf)
+[META -- SAN MARTÍN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/50689.pdf)
 
-[META -- PUERTO GAITÁN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/50568.pdf)
+[META -- PUERTO GAITÁN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/50568.pdf)
 
-[META -- CUMARAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/50226.pdf)
+[META -- CUMARAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/50226.pdf)
 
-[NARIÑO -- PUPIALES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52585.pdf)
+[NARIÑO -- PUPIALES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52585.pdf)
 
-[NARIÑO -- EL PEÑOL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52254.pdf)
+[NARIÑO -- EL PEÑOL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52254.pdf)
 
-[NARIÑO -- ALDANA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52022.pdf)
+[NARIÑO -- ALDANA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52022.pdf)
 
-[NARIÑO -- OLAYA HERRERA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52490.pdf)
+[NARIÑO -- OLAYA HERRERA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52490.pdf)
 
-[NARIÑO -- ARBOLEDA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52051.pdf)
+[NARIÑO -- ARBOLEDA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52051.pdf)
 
-[NARIÑO -- NARIÑO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52480.pdf)
+[NARIÑO -- NARIÑO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52480.pdf)
 
-[NARIÑO -- LA FLORIDA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/52381.pdf)
+[NARIÑO -- LA FLORIDA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/52381.pdf)
 
-[NORTE DE SANTANDER -- TEORAMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54800.pdf)
+[NORTE DE SANTANDER -- TEORAMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54800.pdf)
 
-[NORTE DE SANTANDER -- RAGONVALIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54599.pdf)
+[NORTE DE SANTANDER -- RAGONVALIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54599.pdf)
 
-[NORTE DE SANTANDER -- ARBOLEDAS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54051.pdf)
+[NORTE DE SANTANDER -- ARBOLEDAS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54051.pdf)
 
-[NORTE DE SANTANDER -- CHINÁCOTA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54172.pdf)
+[NORTE DE SANTANDER -- CHINÁCOTA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54172.pdf)
 
-[NORTE DE SANTANDER -- ABREGO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/54003.pdf)
+[NORTE DE SANTANDER -- ABREGO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/54003.pdf)
 
-[PUTUMAYO -- COLÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/86219.pdf)
+[PUTUMAYO -- COLÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/86219.pdf)
 
-[PUTUMAYO -- SANTIAGO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/86760.pdf)
+[PUTUMAYO -- SANTIAGO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/86760.pdf)
 
-[QUINDIO -- QUIMBAYA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/63594.pdf)
+[QUINDIO -- QUIMBAYA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/63594.pdf)
 
-[RISARALDA -- BELÉN DE UMBRÍA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/66088.pdf)
+[RISARALDA -- BELÉN DE UMBRÍA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/66088.pdf)
 
-[SANTANDER -- ENCINO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68264.pdf)
+[SANTANDER -- ENCINO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68264.pdf)
 
-[SANTANDER -- BARRANCABERMEJA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68081.pdf)
+[SANTANDER -- BARRANCABERMEJA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68081.pdf)
 
-[SANTANDER -- CALIFORNIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68132.pdf)
+[SANTANDER -- CALIFORNIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68132.pdf)
 
-[SANTANDER -- GUACA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68318.pdf)
+[SANTANDER -- GUACA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68318.pdf)
 
-[SANTANDER -- SABANA DE TORRES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68655.pdf)
+[SANTANDER -- SABANA DE TORRES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68655.pdf)
 
-[SANTANDER -- ONZAGA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68502.pdf)
+[SANTANDER -- ONZAGA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68502.pdf)
 
-[SANTANDER -- GUAVATÁ](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68324.pdf)
+[SANTANDER -- GUAVATÁ](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68324.pdf)
 
-[SANTANDER -- EL PLAYÓN](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68255.pdf)
+[SANTANDER -- EL PLAYÓN](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68255.pdf)
 
-[SANTANDER -- CHIMA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68176.pdf)
+[SANTANDER -- CHIMA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68176.pdf)
 
-[SANTANDER -- MOGOTES](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68464.pdf)
+[SANTANDER -- MOGOTES](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68464.pdf)
 
-[SANTANDER -- PUENTE NACIONAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/68572.pdf)
+[SANTANDER -- PUENTE NACIONAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/68572.pdf)
 
-[SUCRE -- SAN ONOFRE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/70713.pdf)
+[SUCRE -- SAN ONOFRE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/70713.pdf)
 
-[SUCRE -- SAN MARCOS](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/70708.pdf)
+[SUCRE -- SAN MARCOS](http://luiscarlosreyes.com/wp-content/uploads/2019/10/70708.pdf)
 
-[TOLIMA -- ARMERO](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73055.pdf)
+[TOLIMA -- ARMERO](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73055.pdf)
 
-[TOLIMA -- ESPINAL](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/73268.pdf)
+[TOLIMA -- ESPINAL](http://luiscarlosreyes.com/wp-content/uploads/2019/10/73268.pdf)
 
-[VALLE DEL CAUCA -- BUGALAGRANDE](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76113.pdf)
+[VALLE DEL CAUCA -- BUGALAGRANDE](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76113.pdf)
 
-[VALLE DEL CAUCA -- GUADALAJARA DE BUGA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76111.pdf)
+[VALLE DEL CAUCA -- GUADALAJARA DE BUGA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76111.pdf)
 
-[VALLE DEL CAUCA -- LA VICTORIA](https://raw.githubusercontent.com/ofiscal/cities-output/master/reportes/76403.pdf)
+[VALLE DEL CAUCA -- LA VICTORIA](http://luiscarlosreyes.com/wp-content/uploads/2019/10/76403.pdf)
 
